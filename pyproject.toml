@@ -1,0 +1,10 @@
+[project]
+name = "excess-hydropower-credits"
+version = "0.1.0"
+description = "Analysis backing https://carbonplan.org/research/excess-hydropower-credits"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.3.3",
+    "pyarrow>=22.0.0",
+]
