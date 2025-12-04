@@ -14,7 +14,7 @@ Analysis backing https://carbonplan.org/research/excess-hydropower-credits
 
 ## license
 
-All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/)-licensed, but we request that you please provide attribution if reusing any of our digital content (graphics, logo, articles, etc.). Any data contained within this repository is subjec to its own terms. Please exercise caution.
+All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/)-licensed, but we request that you please provide attribution if reusing any of our digital content (graphics, logo, articles, etc.). Any data contained within this repository is subject to its own terms. Please exercise caution.
 
 ## about us
 
